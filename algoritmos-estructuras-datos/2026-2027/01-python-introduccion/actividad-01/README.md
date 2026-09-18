@@ -18,5 +18,4 @@ Primera entrega de los ejercicios de introducción a Python.
 
 El código se entregará en formato `.py` o `.ipynb`, según se indique en clase. Cada ejercicio debe ejecutarse sin errores en los casos normales descritos en el enunciado.
 
-Las soluciones se publicarán en la carpeta [`soluciones/`](soluciones/README.md) después del periodo de realización de la actividad.
-
+Las soluciones están disponibles en el notebook [`actividad_01_soluciones.ipynb`](soluciones/actividad_01_soluciones.ipynb).

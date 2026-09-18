@@ -18,5 +18,4 @@ Segunda entrega de los ejercicios de introducción a Python.
 
 El código se entregará en formato `.py` o `.ipynb`, según se indique en clase. No se requieren clases, programación orientada a objetos, pandas, NumPy ni otras librerías externas.
 
-Las soluciones se publicarán en la carpeta [`soluciones/`](soluciones/README.md) después del periodo de realización de la actividad.
-
+Las soluciones están disponibles en el notebook [`actividad_02_soluciones.ipynb`](soluciones/actividad_02_soluciones.ipynb).

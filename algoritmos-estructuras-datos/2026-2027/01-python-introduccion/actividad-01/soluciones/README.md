@@ -1,4 +1,7 @@
 # Soluciones
 
-Las soluciones de los ejercicios 1-5 se publicarán aquí una vez concluido el periodo de entrega de la actividad.
+Las soluciones comentadas de los ejercicios 1-5 están reunidas en un único notebook:
 
+- [Abrir `actividad_01_soluciones.ipynb`](actividad_01_soluciones.ipynb)
+
+El notebook incluye explicaciones, ejemplos de ejecución y comprobaciones con varios conjuntos de datos.
