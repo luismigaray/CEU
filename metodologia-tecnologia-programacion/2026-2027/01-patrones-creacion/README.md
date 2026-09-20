@@ -8,9 +8,9 @@ Introducción práctica a los patrones de creación Singleton y Factory Method m
 
 ## Actividades
 
-| Actividad | Patrón | Ejercicio |
-| --- | --- | --- |
-| [Actividad 01](actividad-01-singleton/README.md) | Singleton | Configuración compartida de una interfaz |
-| [Actividad 02](actividad-02-factory-method/README.md) | Factory Method | Campos de texto para móvil y escritorio |
+| Actividad | Patrón | Ejercicio | Solución |
+| --- | --- | --- | --- |
+| [Actividad 01](actividad-01-singleton/README.md) | Singleton | Configuración compartida de una interfaz | [Código Java](actividad-01-singleton/soluciones/README.md) |
+| [Actividad 02](actividad-02-factory-method/README.md) | Factory Method | Campos de texto para móvil y escritorio | [Código Java](actividad-02-factory-method/soluciones/README.md) |
 
 Las dos actividades tienen entregas independientes. La guía incluye la explicación previa, ejemplos resueltos y un checklist final.

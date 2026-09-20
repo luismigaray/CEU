@@ -17,4 +17,4 @@ El programa principal deberá modificar la configuración y demostrar que las do
 
 Esta actividad se entrega de forma independiente en la fecha indicada en clase. No es necesario utilizar una biblioteca gráfica; la interfaz se representa mediante mensajes por consola.
 
-Las soluciones se publicarán en la carpeta [`soluciones/`](soluciones/README.md) después del periodo de entrega.
+La solución comentada y los archivos Java están disponibles en la carpeta [`soluciones/`](soluciones/README.md).
