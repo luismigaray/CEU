@@ -4,7 +4,7 @@ Implementación de campos de texto adaptados a móvil y escritorio mediante el p
 
 ## Enunciado
 
-- [Consultar la guía y el enunciado completo](../enunciado.pdf)
+- [Consultar la guía y el enunciado completo](../enunciado-singleton-factory-method.pdf)
 - El ejercicio aparece en el apartado **2.8. Ejercicio para entregar - Factory Method**.
 
 ## Trabajo solicitado

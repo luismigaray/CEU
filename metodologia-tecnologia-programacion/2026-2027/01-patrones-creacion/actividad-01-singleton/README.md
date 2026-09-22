@@ -4,7 +4,7 @@ Implementación de una configuración compartida entre distintas pantallas de un
 
 ## Enunciado
 
-- [Consultar la guía y el enunciado completo](../enunciado.pdf)
+- [Consultar la guía y el enunciado completo](../enunciado-singleton-factory-method.pdf)
 - El ejercicio aparece en el apartado **1.4. Ejercicio para entregar - Singleton**.
 
 ## Trabajo solicitado
