@@ -7,6 +7,7 @@ Material de la asignatura **Algoritmos y Estructuras de Datos** correspondiente 
 | Bloque | Contenido | Actividades |
 | --- | --- | --- |
 | [01. Introducción a Python](01-python-introduccion/README.md) | Variables, tipos, operadores, funciones, colecciones, control de flujo, errores y excepciones | 2 |
+| [02. Programación orientada a objetos](02-programacion-orientada-objetos/README.md) | Programación orientada a objetos en Python | 0 |
 
 ## Convenciones
 
@@ -14,4 +15,3 @@ Material de la asignatura **Algoritmos y Estructuras de Datos** correspondiente 
 - `enunciado.pdf` contiene la versión entregada al alumnado.
 - `plantillas/` contiene, cuando existan, archivos iniciales para realizar los ejercicios.
 - `soluciones/` se utiliza para publicar las resoluciones una vez finalizado el periodo de entrega.
-
