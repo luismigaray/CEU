@@ -14,6 +14,12 @@ Bloque dedicado a la programación orientada a objetos en Python dentro de la as
 
 Cada notebook contiene explicaciones, ejemplos ejecutables y un ejercicio final. La celda destinada a la respuesta del ejercicio se entrega vacía para que el alumnado escriba y pruebe su propia solución.
 
+## Soluciones publicadas
+
+- [Soluciones comentadas de los ejercicios 1 y 2](soluciones/soluciones_ejercicios_01_02.ipynb)
+
+El notebook de soluciones reúne los enunciados, el código comentado, las salidas de ejecución y una explicación de cada respuesta. Las soluciones de los ejercicios restantes se publicarán cuando corresponda.
+
 ## Cómo utilizarlos
 
 GitHub permite consultar directamente el contenido de los notebooks. Para modificarlos y ejecutar el código, descarga el archivo mediante **Download raw file** y ábrelo con Jupyter Notebook, JupyterLab, Visual Studio Code o Google Colab.
